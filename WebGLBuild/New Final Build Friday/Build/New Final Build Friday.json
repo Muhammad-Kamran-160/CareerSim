@@ -1,0 +1,16 @@
+{
+"companyName": "CodeWarLocks",
+"productName": "Career Design Life Game",
+"productVersion": "0.1",
+"dataUrl": "New Final Build Friday.data.unityweb",
+"wasmCodeUrl": "New Final Build Friday.wasm.code.unityweb",
+"wasmFrameworkUrl": "New Final Build Friday.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.11f1"
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "23509230588",
+    "firebase_url": "https://career-development-game.firebaseio.com",
+    "project_id": "career-development-game",
+    "storage_bucket": "career-development-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23509230588:android:90d7662ebca66bec6d4879",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.CareerDesignLifeGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23509230588-f3dmaj5skc2de9kqo7igvef168vuj10j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIPFumxXP3ufTQD8eDBHVWaE15-nd_erc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23509230588-f3dmaj5skc2de9kqo7igvef168vuj10j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

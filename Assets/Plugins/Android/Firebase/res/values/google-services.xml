@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://career-development-game.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">23509230588</string>
+  <string name="google_storage_bucket" translatable="false">career-development-game.appspot.com</string>
+  <string name="project_id" translatable="false">career-development-game</string>
+  <string name="google_api_key" translatable="false">AIzaSyCIPFumxXP3ufTQD8eDBHVWaE15-nd_erc</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCIPFumxXP3ufTQD8eDBHVWaE15-nd_erc</string>
+  <string name="google_app_id" translatable="false">1:23509230588:android:90d7662ebca66bec6d4879</string>
+  <string name="default_web_client_id" translatable="false">23509230588-f3dmaj5skc2de9kqo7igvef168vuj10j.apps.googleusercontent.com</string>
+</resources>
